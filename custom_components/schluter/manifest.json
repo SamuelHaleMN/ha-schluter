@@ -11,7 +11,7 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/Ingos11/ha-schluter/issues",
   "requirements": [
-    "aioschluter==0.1.9"
+    "git+https://github.com/SamuelHaleMN/aioschluter.git"
   ],
   "ssdp": [],
   "version": "0.2.1",
