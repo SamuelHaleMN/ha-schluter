@@ -1,5 +1,5 @@
 {
-    "name": "AIO Schluter DITRA-HEAT-E WIFI",
+    "name": "AIO Schluter DITRA-HEAT-E WIFI Custom",
     "homeassistant": "2023.7.0",
     "render_readme": true,
     "zip_release": true,
